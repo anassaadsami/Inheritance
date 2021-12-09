@@ -6,6 +6,7 @@ public class Main2 {
 		
 		// just to know we can have more than one main class in the same package
 		// i want to change just in local Repository
+		// how to change just in local Repository not in origina copy in package Explorer
 		/*
 		 * here we have reference variable p2 of type Person which have the address of
 		 * the Student object p2 can access all the method and the attributes in Class
